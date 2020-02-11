@@ -39,6 +39,9 @@ $handle-color: #ddd !default;
 		fill: $light-yellow;
 		opacity: 0.5;
 	}
+	.today-highlight--thin {
+		fill: $bar-color;
+	}
 
 	.arrow {
 		fill: none;
